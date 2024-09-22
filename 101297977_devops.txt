@@ -1,0 +1,5 @@
+Information about the COMP 3104 DevOps course.
+
+The COMP 3104 DevOps course is 15 weeks long. 
+
+What we learn in COMP 3104 every week:
