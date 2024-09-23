@@ -1,0 +1,3 @@
+DevOps comp3104
+we use Github to connect with the codes
+it is a practical course.
