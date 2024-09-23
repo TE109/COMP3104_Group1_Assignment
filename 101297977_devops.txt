@@ -13,3 +13,23 @@ week 3: Version Control for DevOps
 week 4: Developer Operations Landscape
 
 week 5: Hosting High Geared Single Page Applications & Work tracking tools
+
+week 6: Continuous Integration / Continuous Deployment
+
+week 7: MID-TERM EXAM
+
+week 8: INTERSESSION WEEK
+
+week 9: CI/CD Pipeline Sequences
+
+week 10: Working with Cloud Infrastructure
+
+week 11: Automating DevOps & Quality assurance
+
+week 12: DevOps Assembly Lines
+
+week 13: Commonly Used DevOps Tech Exposed
+
+week 14: Transitioning into the role of DevOps
+
+week 15: Final exam
