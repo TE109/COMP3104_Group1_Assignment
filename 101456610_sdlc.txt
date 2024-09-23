@@ -1,2 +1,4 @@
 DevOps is for enhance efficiency, imporove the quality of software release, and shorten the time
 between development and deployment.
+
+It encourages cross-functional collaboration to ensure smoother communication.
